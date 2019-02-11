@@ -1,0 +1,57 @@
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\bin\Debug\Sinema Programı.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\bin\Debug\Sinema Programı.pdb
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema_Programı.Form1.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+D:\DERSLER\2014 Yaz Tatili Çalışma Programı\Windows Form Application\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema_Programı.Form1.resources
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Programı\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema Programı.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi 17.12.2017\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\Asus\Desktop\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.exe
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\bin\Debug\Sinema Programı.pdb
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csprojResolveAssemblyReference.cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.AnaEkran.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.KullaniciGirisEkrani.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.SinemaRezervasyonProjesi.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.Properties.Resources.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiGirisEkrani.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema_Programı.YoneticiPaneli.resources
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.GenerateResource.Cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.csproj.CoreCompileInputs.cache
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.exe
+C:\Users\userse\Downloads\Duzenlecek Projeler-20190211T055239Z-001\Duzenlecek Projeler\Sinema Rezervasyon Projesi V3\Sinema Programı\obj\x86\Debug\Sinema Programı.pdb
