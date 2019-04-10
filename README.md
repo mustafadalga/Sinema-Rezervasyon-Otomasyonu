@@ -1,4 +1,4 @@
-# Sinema-Rezervasyon-Otomasyonu
+# Sinema Rezervasyon Otomasyonu
 Veritabanı kullanılmadan yazdığım bir sinema rezervasyon projesidir.
 
 
