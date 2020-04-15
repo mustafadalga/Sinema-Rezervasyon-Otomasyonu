@@ -1,5 +1,5 @@
 # Sinema Rezervasyon Otomasyonu
-Veritabanı kullanılmadan yazdığım bir sinema rezervasyon projesidir.
+Veritabanı kullanılmadan geliştirdiğim bir sinema rezervasyon projesidir.
 
 
 
